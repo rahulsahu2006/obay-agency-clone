@@ -1524,7 +1524,7 @@ body {
         background-color: #fff;
         margin: 8vw 0;
     }
-
+   
     #footer-div {
         display: -webkit-box;
         display: -ms-flexbox;
@@ -1567,5 +1567,9 @@ body {
         margin-bottom: 4vw;
         font-size: 4vw;
     }
+    .last-line{
+        margin-bottom: 10vh;
+    }
+
 
 }
